@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">novo-empacotador-pwa-eas-eas</string>
+  <string name="title_activity_main">novo-empacotador-pwa-eas-eas</string>
+  <string name="custom_url_scheme">comgithubnovoemp</string>
+</resources>
